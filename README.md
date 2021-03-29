@@ -1,8 +1,13 @@
 # ddg.nim
-Simple DuckDuckGo.com API Wrapper
+Simple DuckDuckGo.com Instant Answer API wrapper for Nim
 
 ### Reference:
 https://duckduckgo.com/api
+
+## Install
+```
+nimble install https://github.com/TheBoringDude/ddg.nim.git
+```
 
 ## Usage
 
